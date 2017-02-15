@@ -1,0 +1,30 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "geocoder": "^0.2.2",
+    "handlebars": "^4.0.6",
+    "inquirer": "^2.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0",
+    "orm": "^3.2.3",
+    "request": "^2.79.0",
+    "weather-js": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "burger"
+  },
+  "author": "Marcus Andersh",
+  "license": "ISC"
+}
